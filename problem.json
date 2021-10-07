@@ -1,0 +1,10 @@
+{
+  "name": "Nginx-Test",
+  "category": "Testing",
+  "description": "Testing nginx with docker!",
+  "score" : 10,
+  "hints": ["Click the link!"],
+  "author": "rjwalls",
+  "organization": "CakeLab@WPI",
+  "event": "Testing"
+}
